@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelink threeWay="true" forceExeedL="true" forceExeedM="true" forceExeedR="true">
+  <model path="/launchship.logistics.models/ui/logistics.reactbotui" position="LEFT" />
+  <model path="/launchship.logistics.models/entity/logistics.csharpbotentity" position="MIDDLE" />
+  <model path="/launchship.logistics.models/security/logistics.commonsecurity" position="RIGHT" />
+</modelink>
